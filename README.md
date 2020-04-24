@@ -1,7 +1,7 @@
 # Heal-Up
 Covid 19 tracker and forecasting
  
- #Our Proposed Solution
+ # Our Proposed Solution
  Covid 19 took the world by surprise, leaving world government endeavoring to restrict its spread. Wherein in some countries 
  the situation is well under control others are struggling to stay afloat. With many countries implementing lockdown life has
  come to screeching halt, not only is the virus targeting the health of citizens but the economy is bearing the burnt as well.
